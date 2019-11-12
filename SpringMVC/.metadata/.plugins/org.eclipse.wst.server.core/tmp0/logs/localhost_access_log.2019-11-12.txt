@@ -8,3 +8,10 @@
 0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:32:40 +0530] "GET /home.com/ HTTP/1.1" 404 1087
 0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:32:51 +0530] "GET /home.com/home.com/welcome HTTP/1.1" 200 426
 0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:32:56 +0530] "GET /home.com/home.com/processOrder?foodType=miller&Submit= HTTP/1.1" 200 180
+127.0.0.1 - - [12/Nov/2019:11:43:10 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:43:11 +0530] "GET /home.com/ HTTP/1.1" 404 1087
+0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:43:19 +0530] "GET /home.com/home.com/welcome HTTP/1.1" 200 426
+0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:43:25 +0530] "GET /home.com/home.com/processOrder?foodType=millet&Submit= HTTP/1.1" 200 173
+0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:44:49 +0530] "GET /home.com/home.com/Books HTTP/1.1" 200 176
+0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:44:54 +0530] "GET /home.com/home.com/welcome HTTP/1.1" 200 426
+0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:44:58 +0530] "GET /home.com/home.com/processOrder?foodType=millet&Submit= HTTP/1.1" 200 259
