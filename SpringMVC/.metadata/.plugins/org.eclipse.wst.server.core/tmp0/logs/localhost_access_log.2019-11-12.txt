@@ -4,3 +4,7 @@
 0:0:0:0:0:0:0:1 - - [12/Nov/2019:09:15:03 +0530] "GET /home.com/home.com/welcome HTTP/1.1" 200 426
 0:0:0:0:0:0:0:1 - - [12/Nov/2019:09:15:03 +0530] "GET /home.com/home.com/welcome HTTP/1.1" 200 426
 0:0:0:0:0:0:0:1 - - [12/Nov/2019:09:15:08 +0530] "GET /home.com/home.com/processOrder?foodType=Blah&Submit= HTTP/1.1" 200 166
+127.0.0.1 - - [12/Nov/2019:11:32:39 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:32:40 +0530] "GET /home.com/ HTTP/1.1" 404 1087
+0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:32:51 +0530] "GET /home.com/home.com/welcome HTTP/1.1" 200 426
+0:0:0:0:0:0:0:1 - - [12/Nov/2019:11:32:56 +0530] "GET /home.com/home.com/processOrder?foodType=miller&Submit= HTTP/1.1" 200 180
