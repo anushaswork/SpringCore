@@ -1,0 +1,13 @@
+package mycafe.controllers;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class MyCafeControllers {
+	
+	public String showWelcomePage()
+	{
+		return "welcome";
+	}
+
+}
